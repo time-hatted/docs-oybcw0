@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-xbgmjk.pixk.link/sitemap.xml
